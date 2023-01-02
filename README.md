@@ -7,11 +7,12 @@
 nvantien/nvantien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="400" width="600"</p>
 <h2 align="center">About me</h2>
 <p>
  
 </p>
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="400" width="600"</p>
+
  <h4>My Tech Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 <p>
   <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff">
