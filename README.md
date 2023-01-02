@@ -1,16 +1,18 @@
-- 👋 Hi, I’m @nvantien
+- 👋 Hi, I’m Van Tien
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
 <!---
 nvantien/nvantien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h2 align="center">About me</h2>
+<p>
+ 
+</p>
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="400" width="600"</p>
- <h4>My Tech Stack</h4>
+ <h4>My Tech Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 <p>
   <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-C%2B%2B-green?style=flat-square&logo=java&logoColor=ffffff">
