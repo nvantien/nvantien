@@ -18,8 +18,9 @@ You can click the Preview link to take a look at your changes.
   <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-C%2B%2B-green?style=flat-square&logo=java&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-C%23-brightgreen?style=flat-square&logo=java&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat-square">
   <img src="http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/-Python-blue">
+  
 </p>
  <h4>Frontend</h4>
  <p>
